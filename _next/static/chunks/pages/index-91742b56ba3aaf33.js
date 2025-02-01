@@ -2119,7 +2119,7 @@
                               className: (0, a.cx)(
                                 (0, h.m6)(ec().introSection_blocksTitle, "pb-3")
                               ),
-                              children: _,
+                              children: "100%",
                             }),
                             (0, l.jsx)("div", {
                               className: ec().introSection_blocksTitleSubtitle,
@@ -2135,7 +2135,7 @@
                               className: (0, a.cx)(
                                 (0, h.m6)(ec().introSection_blocksTitle, "pb-1")
                               ),
-                              children: p,
+                              children:"---",
                             }),
                             (0, l.jsx)("div", {
                               className: (0, a.cx)(
@@ -2156,7 +2156,7 @@
                               className: (0, a.cx)(
                                 (0, h.m6)(ec().introSection_blocksTitle, "pb-3")
                               ),
-                              children: d,
+                              children: "$ ---",
                             }),
                             (0, l.jsx)("div", {
                               className: ec().introSection_blocksTitleSubtitle,
@@ -2172,7 +2172,7 @@
                               className: (0, a.cx)(
                                 (0, h.m6)(ec().introSection_blocksTitle, "pb-3")
                               ),
-                              children: o,
+                              children: "$ ---,---,---",
                             }),
                             (0, l.jsx)("div", {
                               className: ec().introSection_blocksTitleSubtitle,
